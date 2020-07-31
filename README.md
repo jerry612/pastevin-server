@@ -1,2 +1,2 @@
-# pastevin-server
+# pastebin-server
 Created with CodeSandbox
